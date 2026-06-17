@@ -242,13 +242,13 @@ Pursuing a rigorous undergraduate curriculum in software engineering with self-d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamza-Ahmed-S&show_icons=true&theme=tokyonight&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&bg_color=0d0d1a&border_color=4c1d95&hide_border=false&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hamza-Ahmed-S&show_icons=true&theme=tokyonight&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&bg_color=0d0d1a&border_color=4c1d95&hide_border=false" height="180" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Ahmed-S&layout=compact&theme=tokyonight&title_color=a78bfa&text_color=e2e8f0&bg_color=0d0d1a&border_color=4c1d95&langs_count=8" height="180" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Hamza-Ahmed-S&theme=tokyonight&background=0d0d1a&border=4c1d95&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=94a3b8" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-Ahmed-S&theme=tokyonight&background=0d0d1a&border=4c1d95&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=94a3b8" height="180" />
 
 </div>
 
